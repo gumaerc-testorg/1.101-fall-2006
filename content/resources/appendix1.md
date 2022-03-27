@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Water Resources
 parent_type: CourseSection
+parent_uid: 1a478646-505a-a226-fa0b-d128902fe187
 resourcetype: Document
 title: appendix1.pdf
 uid: b1a6e36c-4ec3-9455-f37c-ff8c9e929b27

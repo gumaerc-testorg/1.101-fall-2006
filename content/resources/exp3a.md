@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Structures
 parent_type: CourseSection
+parent_uid: d588dff9-8a1b-2022-8c19-f23ffd42ae97
 resourcetype: Document
 title: exp3a.pdf
 uid: 074392bc-0593-c843-b320-1f50f1c7c4e3

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Structures
 parent_type: CourseSection
+parent_uid: d588dff9-8a1b-2022-8c19-f23ffd42ae97
 resourcetype: Document
 title: revised.pdf
 uid: e1e1389b-e0a0-cc9e-f704-806d40ca9f05

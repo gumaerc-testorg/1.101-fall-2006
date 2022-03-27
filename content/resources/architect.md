@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Delta Game
 parent_type: CourseSection
+parent_uid: adc5bd74-d4f0-7aca-7fc3-0a15af98975e
 resourcetype: Document
 title: architect.pdf
 uid: 0a6b4106-bdd7-3949-5669-5c66e9bf6b4f

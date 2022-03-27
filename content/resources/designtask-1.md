@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Delta Game
 parent_type: CourseSection
+parent_uid: adc5bd74-d4f0-7aca-7fc3-0a15af98975e
 resourcetype: Document
 title: designtask.pdf
 uid: b2ea2614-e8d7-3a53-806e-ab8b1481a2de

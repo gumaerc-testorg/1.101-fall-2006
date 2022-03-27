@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Developing Back Bay
 parent_type: CourseSection
+parent_uid: cd2f3571-638a-cb4a-7b0b-346dc274fc85
 resourcetype: Document
 title: backbay.pdf
 uid: e7746694-920b-45b7-386c-c28aa6f76399

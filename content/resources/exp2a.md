@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Water Resources
 parent_type: CourseSection
+parent_uid: 1a478646-505a-a226-fa0b-d128902fe187
 resourcetype: Document
 title: exp2a.pdf
 uid: 83cfcfd5-a502-539e-bc4c-c91cdbcfedc2

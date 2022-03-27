@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Structures
 parent_type: CourseSection
+parent_uid: d588dff9-8a1b-2022-8c19-f23ffd42ae97
 resourcetype: Document
 title: 3btheory.pdf
 uid: 7ffdc05f-dde1-8a98-928c-1cfc5b5f5312

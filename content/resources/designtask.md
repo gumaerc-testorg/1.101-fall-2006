@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Structures
 parent_type: CourseSection
+parent_uid: d588dff9-8a1b-2022-8c19-f23ffd42ae97
 resourcetype: Document
 title: designtask.pdf
 uid: e29d100d-52da-38a9-a605-29c5297eba8a

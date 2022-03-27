@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Water Resources
 parent_type: CourseSection
+parent_uid: 1a478646-505a-a226-fa0b-d128902fe187
 resourcetype: Document
 title: design_task.pdf
 uid: 18a44fbc-60d0-31f2-7448-dc75133b0a56

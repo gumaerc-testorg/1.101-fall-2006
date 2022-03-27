@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Delta Game
 parent_type: CourseSection
+parent_uid: adc5bd74-d4f0-7aca-7fc3-0a15af98975e
 resourcetype: Document
 title: instructor.pdf
 uid: 4b51c7a7-a5a5-e882-b3a9-94f25b62abc8

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Delta Game
 parent_type: CourseSection
+parent_uid: adc5bd74-d4f0-7aca-7fc3-0a15af98975e
 resourcetype: Document
 title: thermal.pdf
 uid: ed92bf3a-0aa8-bed8-752b-8003d87bd162
