@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the scope and objectives of the
+  Delta Game assignment.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Delta Game
@@ -18,10 +20,10 @@ Assignment
 
 The four files below include both the design task and the primer for one particular specialist's role:
 
-*   Architect ([PDF]({{< baseurl >}}/resources/architect))
-*   Project manager ([PDF]({{< baseurl >}}/resources/manager))
-*   Structural engineer ([PDF]({{< baseurl >}}/resources/structural))
-*   Thermal engineer ([PDF]({{< baseurl >}}/resources/thermal))
+*   Architect ({{% resource_link 0a6b4106-bdd7-3949-5669-5c66e9bf6b4f "PDF" %}})
+*   Project manager ({{% resource_link a9e46e36-b7c1-cb5f-63bf-13c7dcc74c74 "PDF" %}})
+*   Structural engineer ({{% resource_link 18e4ef80-f5be-c19b-4463-5c3127a07c9e "PDF" %}})
+*   Thermal engineer ({{% resource_link ed92bf3a-0aa8-bed8-752b-8003d87bd162 "PDF" %}})
 
 First, read the design task. Each specialist will then have to read the corresponding primer. It is very important that you are competent in your discipline and are able to make decisions quickly. Primers should only be read by the particular specialist and not by the other members of the team. This contradicts in a way the "complete openness" required of good teams; the restriction is important in the context of the Delta Game to make the negotiation more pointed.
 
@@ -32,4 +34,4 @@ It is absolutely essential that you prepare yourselves and show up on time!
 Instructor's Guide
 ------------------
 
-*   Instructor's guide ([PDF]({{< baseurl >}}/resources/instructor))
+*   Instructor's guide ({{% resource_link 4b51c7a7-a5a5-e882-b3a9-94f25b62abc8 "PDF" %}})

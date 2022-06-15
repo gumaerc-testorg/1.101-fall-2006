@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Schedule of lecture topics and labs.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
