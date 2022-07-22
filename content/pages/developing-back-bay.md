@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains information about the third and final project assignment.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Developing Back Bay
 uid: cd2f3571-638a-cb4a-7b0b-346dc274fc85
 ---
@@ -28,4 +31,4 @@ The result of your work should be in form of a rough plan indicating residential
 
 Very important: Do not assume that what has been done, i.e. the present Back Bay, is the best solution!
 
-Back Bay Pre-Handout ([PDF - 1.4 MB]({{< baseurl >}}/resources/backbay))
+Back Bay Pre-Handout ({{% resource_link e7746694-920b-45b7-386c-c28aa6f76399 "PDF - 1.4 MB" %}})

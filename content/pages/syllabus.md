@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the subject description and other information about
+  the course and its requirements.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 132e9df6-69b8-8310-fa14-b798fa7742ad
 ---
@@ -53,9 +57,9 @@ Attention to safety is absolutely required of all participants. Key elements of 
 
 Tools and supplies: Kits of hand tools will be signed out to each team, which will be responsible for their security and their return. Supplies will also be provided for prototyping. Students who wish to use tools and materials other than those supplied should speak with an instructor first.
 
-CEE Shop Protocol ([PDF]({{< baseurl >}}/resources/shop_protocol))
+CEE Shop Protocol ({{% resource_link f3a0d878-6cd8-fda6-3bf6-1424805ebdb2 "PDF" %}})
 
-Hand and Power Tool Safety ([PDF]({{< baseurl >}}/resources/tool_safety))
+Hand and Power Tool Safety ({{% resource_link b1ed69f0-5a3e-9b58-bd37-6aa44deb8f0d "PDF" %}})
 
 Grading
 -------
