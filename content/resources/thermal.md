@@ -5,6 +5,7 @@ description: This resource discusses about the roles and responsibilities of a t
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/ed92bf3a0aa8bed8752b8003d87bd162_thermal.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Delta Game
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: thermal.pdf
 uid: ed92bf3a-0aa8-bed8-752b-8003d87bd162
 ---
 This resource discusses about the roles and responsibilities of a thermal engineer.
-
