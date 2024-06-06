@@ -4,6 +4,7 @@ description: This file is resource which contains information on Torsion of Circ
   Shafts, Compatibility of Deformation, Constitutive Relations and Application to
   design task.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/4d1024294396f5754d66f00ed107f734_analysis1.pdf
+file_size: 199945
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
