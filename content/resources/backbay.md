@@ -4,6 +4,7 @@ description: 'This handout covers a number of topics related to the design proje
   Scope, Background, Design Task, Topography, Geology, Rules of Thumb for Foundations,
   Environmental Issues and Deliverables.'
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/e7746694920b45b7386cc28aa6f76399_backbay.pdf
+file_size: 599114
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
