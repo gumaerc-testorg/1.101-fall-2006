@@ -3,6 +3,7 @@ content_type: resource
 description: This file is a resource which contains information on Design curves,
   Standard calibration solutions, Digital voltmeter and Signal conditioning.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/1013d2b8cbc7c28d903f3905e363743e_exp1.pdf
+file_size: 50035
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
