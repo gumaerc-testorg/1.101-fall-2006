@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains information on Connection, Testing
   and Measurements of Water filters.
-file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/c5653d96bbc83ae76b1eba062ebc6741_filter_testing.pdf
+file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/c5653d96bbc83ae76b1eba062ebc6741_filter_testing.pdf
 file_size: 91676
 file_type: application/pdf
 learning_resource_types: []
