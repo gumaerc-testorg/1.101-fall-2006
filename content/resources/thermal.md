@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the roles and responsibilities of a thermal
   engineer.
-file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/ed92bf3a0aa8bed8752b8003d87bd162_thermal.pdf
+file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/ed92bf3a0aa8bed8752b8003d87bd162_thermal.pdf
 file_size: 106612
 file_type: application/pdf
 learning_resource_types: []

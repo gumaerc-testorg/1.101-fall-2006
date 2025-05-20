@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handout on Personal Safety and Tool Care.
-file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/b1ed69f05a3e9b58bd376aa44deb8f0d_tool_safety.pdf
+file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/b1ed69f05a3e9b58bd376aa44deb8f0d_tool_safety.pdf
 file_size: 58575
 file_type: application/pdf
 learning_resource_types: []
