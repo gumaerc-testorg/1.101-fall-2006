@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains information on Linear elastic
   behavior of a beam, Load versus Displacement and Stress  versus Load.
-file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/e59eadb0237349eb962c443290edf855_3bresults.pdf
+file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/e59eadb0237349eb962c443290edf855_3bresults.pdf
 file_size: 185195
 file_type: application/pdf
 learning_resource_types: []
