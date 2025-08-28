@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains information Filter design task
   report audience, contents and format.
-file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/095e3587021f2b6436792a3c01484c2a_design_report.pdf
+file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/095e3587021f2b6436792a3c01484c2a_design_report.pdf
 file_size: 160112
 file_type: application/pdf
 learning_resource_types: []
