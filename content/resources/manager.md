@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about design team roles and responsibilities
   of a manager.
-file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/a9e46e36b7c1cb5f63bf13c7dcc74c74_manager.pdf
+file: /ol-ocw-studio-app/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/a9e46e36b7c1cb5f63bf13c7dcc74c74_manager.pdf
 file_size: 89968
 file_type: application/pdf
 learning_resource_types: []
